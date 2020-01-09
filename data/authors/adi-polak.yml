@@ -1,0 +1,11 @@
+name: "Adi Polak"
+bio: "The most *** world"
+location: "Normal"
+image: ""
+website: "https://adi-polak.dev"
+social: {
+        "twitter": "adipolak",
+        "github": "https://www.github.com/adpola",
+        "website": "https://adi-polak.dev"
+}
+

@@ -1,0 +1,19 @@
+<section class="author">
+<!-- {{ if isset .Site.Params "author" }}
+  <p>{{ .Site.Params.author }}</p>
+  <p>Read <a href="{{ .Site.BaseURL }}">more posts</a> by this author.</p>
+{{ end }} --> 
+
+
+{{ if isset .Params "authors" }}
+<p> Written by:
+  {{ range  $author := .Params.authors -}}
+      {{ $info := index $.Site.Data.authors $author }}
+      <a href="{{ $info.website }}"> {{ $info.name }}; </a>
+  {{- end }}
+  </p>
+{{ end }}
+
+
+</section>
+

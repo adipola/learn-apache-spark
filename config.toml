@@ -1,0 +1,33 @@
+BaseUrl= "http://localhost:1313/"
+LanguageCode= "en-US"
+Title= "Learn Apache Spark"
+paginate = 5
+DisqusShortname = "learn-apache-spark"
+Copyright = "All rights reserved - 2020"
+canonifyurls = true
+
+
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"
+
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug"
+
+[params]
+  description = ""
+  cover = "images/user.jpg"
+  logo = "images/user.png"
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = ""
+  githubName = "adipola"
+  twitterName = "adipolak"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = true
+  mainSections = ["post"]
+
+
+
