@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>adi-polak on Learn Apache Spark</title>
+    <link>http://localhost:1313/authors/adi-polak/</link>
+    <description>Recent content in adi-polak on Learn Apache Spark</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved - 2020</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/authors/adi-polak/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hello sample</title>
+      <link>http://localhost:1313/post/2017/01/01/yes/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/2017/01/01/yes/</guid>
+      <description>wow what a storm outside!
+no.. it&#39;s actualy sunny and nice!</description>
+    </item>
+    
+    <item>
+      <title>sample</title>
+      <link>http://localhost:1313/post/2017/01/01/test/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/2017/01/01/test/</guid>
+      <description>Hugo is the world&#39;s fastest static website engine. It&#39;s written in Go (aka Golang) and developed by bep, spf13 and friends.
+ Below you will find some of the most common and helpful pages from our documentation.
+ https://gohugo.io/documentation/</description>
+    </item>
+    
+  </channel>
+</rss>
