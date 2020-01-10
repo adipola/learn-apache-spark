@@ -1,4 +1,4 @@
-BaseUrl= "http://localhost:1313/"
+BaseUrl= "http://learn-apache-spark.dev/"
 LanguageCode= "en-US"
 Title= "Learn Apache Spark"
 paginate = 5
