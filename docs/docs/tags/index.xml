@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Learn Apache Spark</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://learn-apache-spark.dev/tags/</link>
     <description>Recent content in Tags on Learn Apache Spark</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2020</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://learn-apache-spark.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>authors</title>
-      <link>http://localhost:1313/tags/authors/</link>
+      <link>http://learn-apache-spark.dev/tags/authors/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/authors/</guid>
+      <guid>http://learn-apache-spark.dev/tags/authors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blogging</title>
-      <link>http://localhost:1313/tags/blogging/</link>
+      <link>http://learn-apache-spark.dev/tags/blogging/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/blogging/</guid>
+      <guid>http://learn-apache-spark.dev/tags/blogging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data</title>
-      <link>http://localhost:1313/tags/data/</link>
+      <link>http://learn-apache-spark.dev/tags/data/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/data/</guid>
+      <guid>http://learn-apache-spark.dev/tags/data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>template</title>
-      <link>http://localhost:1313/tags/template/</link>
+      <link>http://learn-apache-spark.dev/tags/template/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/template/</guid>
+      <guid>http://learn-apache-spark.dev/tags/template/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag1</title>
-      <link>http://localhost:1313/tags/tag1/</link>
+      <link>http://learn-apache-spark.dev/tags/tag1/</link>
       <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/tag1/</guid>
+      <guid>http://learn-apache-spark.dev/tags/tag1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag2</title>
-      <link>http://localhost:1313/tags/tag2/</link>
+      <link>http://learn-apache-spark.dev/tags/tag2/</link>
       <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/tag2/</guid>
+      <guid>http://learn-apache-spark.dev/tags/tag2/</guid>
       <description></description>
     </item>
     

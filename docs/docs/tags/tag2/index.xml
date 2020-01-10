@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tag2 on Learn Apache Spark</title>
-    <link>http://localhost:1313/tags/tag2/</link>
+    <link>http://learn-apache-spark.dev/tags/tag2/</link>
     <description>Recent content in tag2 on Learn Apache Spark</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2020</copyright>
     <lastBuildDate>Fri, 11 Jul 2014 10:54:24 +0200</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://learn-apache-spark.dev/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Authors</title>
-      <link>http://localhost:1313/authors/</link>
+      <link>http://learn-apache-spark.dev/authors/</link>
       <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
       
-      <guid>http://localhost:1313/authors/</guid>
+      <guid>http://learn-apache-spark.dev/authors/</guid>
       <description> {{ range $index, $author := .Site.Data.authors }} &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;{{ $baseurl }}authors/{{ $index.name | urlize | lower }}&amp;quot;&amp;gt;$author.name&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://example.com/quote/quotes-02/&amp;quot;&amp;gt;Quote 2&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; {{ end }}  </description>
     </item>
     

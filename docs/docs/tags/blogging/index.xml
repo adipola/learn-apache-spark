@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blogging on Learn Apache Spark</title>
-    <link>http://localhost:1313/tags/blogging/</link>
+    <link>http://learn-apache-spark.dev/tags/blogging/</link>
     <description>Recent content in blogging on Learn Apache Spark</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2020</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://learn-apache-spark.dev/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hello sample</title>
-      <link>http://localhost:1313/post/2017/01/01/yes/</link>
+      <link>http://learn-apache-spark.dev/post/2017/01/01/yes/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2017/01/01/yes/</guid>
+      <guid>http://learn-apache-spark.dev/post/2017/01/01/yes/</guid>
       <description>wow what a storm outside!
 no.. it&#39;s actualy sunny and nice!</description>
     </item>
     
     <item>
       <title>Ursula K. Le Guin: Conversations on Writing</title>
-      <link>http://localhost:1313/post/2017/01/01/yes/</link>
+      <link>http://learn-apache-spark.dev/post/2017/01/01/yes/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2017/01/01/yes/</guid>
+      <guid>http://learn-apache-spark.dev/post/2017/01/01/yes/</guid>
       <description>In a series of interviews with David Naimon (Between the Covers), Le Guin discusses craft, aesthetics, and philosophy in her fiction, poetry, and nonfiction respectively.</description>
     </item>
     

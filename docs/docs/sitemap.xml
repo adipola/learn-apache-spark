@@ -3,92 +3,92 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/authors/adi-polak/</loc>
+    <loc>http://learn-apache-spark.dev/authors/adi-polak/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>http://learn-apache-spark.dev/authors/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/authors/</loc>
+    <loc>http://learn-apache-spark.dev/tags/authors/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/blogging/</loc>
+    <loc>http://learn-apache-spark.dev/tags/blogging/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/data/</loc>
+    <loc>http://learn-apache-spark.dev/tags/data/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/2017/01/01/yes/</loc>
+    <loc>http://learn-apache-spark.dev/post/2017/01/01/yes/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/authors/john-doe/</loc>
+    <loc>http://learn-apache-spark.dev/authors/john-doe/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://learn-apache-spark.dev/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://learn-apache-spark.dev/post/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/2017/01/01/test/</loc>
+    <loc>http://learn-apache-spark.dev/post/2017/01/01/test/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://learn-apache-spark.dev/tags/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/template/</loc>
+    <loc>http://learn-apache-spark.dev/tags/template/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/2017/01/01/yes/</loc>
+    <loc>http://learn-apache-spark.dev/post/2017/01/01/yes/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://learn-apache-spark.dev/about/</loc>
     <lastmod>2014-07-11T10:54:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>http://learn-apache-spark.dev/authors/</loc>
     <lastmod>2014-07-11T10:54:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/tag1/</loc>
+    <loc>http://learn-apache-spark.dev/tags/tag1/</loc>
     <lastmod>2014-07-11T10:54:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/tag2/</loc>
+    <loc>http://learn-apache-spark.dev/tags/tag2/</loc>
     <lastmod>2014-07-11T10:54:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://learn-apache-spark.dev/categories/</loc>
   </url>
   
 </urlset>
