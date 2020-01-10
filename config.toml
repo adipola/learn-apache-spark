@@ -5,7 +5,7 @@ paginate = 5
 DisqusShortname = "learn-apache-spark"
 Copyright = "All rights reserved - 2020"
 canonifyurls = true
-publishDir = "docs"
+publishDir = "docs/"
 
 [taxonomies]
   author = "authors"
