@@ -68,12 +68,18 @@
   </url>
   
   <url>
-    <loc>http://learn-apache-spark.dev/about/</loc>
+    <loc>http://learn-apache-spark.dev/basic/</loc>
+    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://learn-apache-spark.dev/basic/about/</loc>
     <lastmod>2014-07-11T10:54:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://learn-apache-spark.dev/authors/</loc>
+    <loc>http://learn-apache-spark.dev/basic/authors/</loc>
     <lastmod>2014-07-11T10:54:24+02:00</lastmod>
   </url>
   

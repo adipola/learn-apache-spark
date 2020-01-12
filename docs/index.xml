@@ -44,19 +44,19 @@ no.. it&#39;s actualy sunny and nice!</description>
     
     <item>
       <title>About</title>
-      <link>http://learn-apache-spark.dev/about/</link>
+      <link>http://learn-apache-spark.dev/basic/about/</link>
       <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
       
-      <guid>http://learn-apache-spark.dev/about/</guid>
+      <guid>http://learn-apache-spark.dev/basic/about/</guid>
       <description>This site build for&amp;hellip;</description>
     </item>
     
     <item>
       <title>Authors</title>
-      <link>http://learn-apache-spark.dev/authors/</link>
+      <link>http://learn-apache-spark.dev/basic/authors/</link>
       <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
       
-      <guid>http://learn-apache-spark.dev/authors/</guid>
+      <guid>http://learn-apache-spark.dev/basic/authors/</guid>
       <description> {{ range $index, $author := .Site.Data.authors }} &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;{{ $baseurl }}authors/{{ $index.name | urlize | lower }}&amp;quot;&amp;gt;$author.name&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://example.com/quote/quotes-02/&amp;quot;&amp;gt;Quote 2&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; {{ end }}  </description>
     </item>
     

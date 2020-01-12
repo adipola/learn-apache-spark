@@ -18,7 +18,8 @@ publishDir = "docs/"
 
 [params]
   description = ""
-  cover = "images/user.jpg"
+  cover = "images/tmp.jpg"
+  basic = ""
   logo = "images/user.png"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
