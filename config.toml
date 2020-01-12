@@ -18,7 +18,7 @@ publishDir = "docs/"
 
 [params]
   description = ""
-  cover = "images/tmp.jpg"
+  cover = "images/screen.jpg"
   basic = ""
   logo = "images/user.png"
   googleAnalyticsUserID = ""
