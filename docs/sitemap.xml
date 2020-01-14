@@ -3,98 +3,98 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://learn-apache-spark.dev/authors/adi-polak/</loc>
+    <loc>/authors/adi-polak/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://learn-apache-spark.dev/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://learn-apache-spark.dev/tags/authors/</loc>
+    <loc>/tags/authors/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://learn-apache-spark.dev/tags/blogging/</loc>
+    <loc>/tags/blogging/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://learn-apache-spark.dev/tags/data/</loc>
+    <loc>/tags/data/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://learn-apache-spark.dev/post/2017/01/01/yes/</loc>
+    <loc>/post/2017/01/01/yes/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://learn-apache-spark.dev/authors/john-doe/</loc>
+    <loc>/authors/john-doe/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://learn-apache-spark.dev/</loc>
+    <loc>/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://learn-apache-spark.dev/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://learn-apache-spark.dev/post/2017/01/01/test/</loc>
+    <loc>/post/2017/01/01/test/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://learn-apache-spark.dev/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://learn-apache-spark.dev/tags/template/</loc>
+    <loc>/tags/template/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://learn-apache-spark.dev/post/2017/01/01/yes/</loc>
+    <loc>/post/2017/01/01/yes/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://learn-apache-spark.dev/basic/</loc>
+    <loc>/basic/</loc>
     <lastmod>2014-07-11T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://learn-apache-spark.dev/basic/about/</loc>
+    <loc>/basic/about/</loc>
     <lastmod>2014-07-11T10:54:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://learn-apache-spark.dev/basic/authors/</loc>
+    <loc>/basic/authors/</loc>
     <lastmod>2014-07-11T10:54:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://learn-apache-spark.dev/tags/tag1/</loc>
+    <loc>/tags/tag1/</loc>
     <lastmod>2014-07-11T10:54:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://learn-apache-spark.dev/tags/tag2/</loc>
+    <loc>/tags/tag2/</loc>
     <lastmod>2014-07-11T10:54:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://learn-apache-spark.dev/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
 </urlset>

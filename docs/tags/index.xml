@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Learn Apache Spark</title>
-    <link>http://learn-apache-spark.dev/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Learn Apache Spark</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2020</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://learn-apache-spark.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>authors</title>
-      <link>http://learn-apache-spark.dev/tags/authors/</link>
+      <link>/tags/authors/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://learn-apache-spark.dev/tags/authors/</guid>
+      <guid>/tags/authors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blogging</title>
-      <link>http://learn-apache-spark.dev/tags/blogging/</link>
+      <link>/tags/blogging/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://learn-apache-spark.dev/tags/blogging/</guid>
+      <guid>/tags/blogging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data</title>
-      <link>http://learn-apache-spark.dev/tags/data/</link>
+      <link>/tags/data/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://learn-apache-spark.dev/tags/data/</guid>
+      <guid>/tags/data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>template</title>
-      <link>http://learn-apache-spark.dev/tags/template/</link>
+      <link>/tags/template/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://learn-apache-spark.dev/tags/template/</guid>
+      <guid>/tags/template/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag1</title>
-      <link>http://learn-apache-spark.dev/tags/tag1/</link>
+      <link>/tags/tag1/</link>
       <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
       
-      <guid>http://learn-apache-spark.dev/tags/tag1/</guid>
+      <guid>/tags/tag1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag2</title>
-      <link>http://learn-apache-spark.dev/tags/tag2/</link>
+      <link>/tags/tag2/</link>
       <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
       
-      <guid>http://learn-apache-spark.dev/tags/tag2/</guid>
+      <guid>/tags/tag2/</guid>
       <description></description>
     </item>
     

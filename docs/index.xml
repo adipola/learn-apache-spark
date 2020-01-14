@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learn Apache Spark</title>
-    <link>http://learn-apache-spark.dev/</link>
+    <link>/</link>
     <description>Recent content on Learn Apache Spark</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2020</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://learn-apache-spark.dev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hello sample</title>
-      <link>http://learn-apache-spark.dev/post/2017/01/01/yes/</link>
+      <link>/post/2017/01/01/yes/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://learn-apache-spark.dev/post/2017/01/01/yes/</guid>
+      <guid>/post/2017/01/01/yes/</guid>
       <description>wow what a storm outside!
 no.. it&#39;s actualy sunny and nice!</description>
     </item>
     
     <item>
       <title>sample</title>
-      <link>http://learn-apache-spark.dev/post/2017/01/01/test/</link>
+      <link>/post/2017/01/01/test/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://learn-apache-spark.dev/post/2017/01/01/test/</guid>
+      <guid>/post/2017/01/01/test/</guid>
       <description>Hugo is the world&#39;s fastest static website engine. It&#39;s written in Go (aka Golang) and developed by bep, spf13 and friends.
  Below you will find some of the most common and helpful pages from our documentation.
  https://gohugo.io/documentation/</description>
@@ -35,28 +35,28 @@ no.. it&#39;s actualy sunny and nice!</description>
     
     <item>
       <title>Ursula K. Le Guin: Conversations on Writing</title>
-      <link>http://learn-apache-spark.dev/post/2017/01/01/yes/</link>
+      <link>/post/2017/01/01/yes/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://learn-apache-spark.dev/post/2017/01/01/yes/</guid>
+      <guid>/post/2017/01/01/yes/</guid>
       <description>In a series of interviews with David Naimon (Between the Covers), Le Guin discusses craft, aesthetics, and philosophy in her fiction, poetry, and nonfiction respectively.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://learn-apache-spark.dev/basic/about/</link>
+      <link>/basic/about/</link>
       <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
       
-      <guid>http://learn-apache-spark.dev/basic/about/</guid>
+      <guid>/basic/about/</guid>
       <description>This site build for&amp;hellip;</description>
     </item>
     
     <item>
       <title>Authors</title>
-      <link>http://learn-apache-spark.dev/basic/authors/</link>
+      <link>/basic/authors/</link>
       <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
       
-      <guid>http://learn-apache-spark.dev/basic/authors/</guid>
+      <guid>/basic/authors/</guid>
       <description> {{ range $index, $author := .Site.Data.authors }} &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;{{ $baseurl }}authors/{{ $index.name | urlize | lower }}&amp;quot;&amp;gt;$author.name&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://example.com/quote/quotes-02/&amp;quot;&amp;gt;Quote 2&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; {{ end }}  </description>
     </item>
     
