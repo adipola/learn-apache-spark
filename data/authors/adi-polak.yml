@@ -1,11 +1,13 @@
 name: "Adi Polak"
 bio: "The most *** world"
-location: "Normal"
-image: ""
+location: "Global"
+image: "https://res.cloudinary.com/practicaldev/image/fetch/s--2xErVVnk--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/121127/0af4a894-56eb-4e81-890a-12e5ba022027.jpg"
 website: "https://adi-polak.dev"
 social: {
         "twitter": "adipolak",
         "github": "https://www.github.com/adpola",
-        "website": "https://adi-polak.dev"
+        "linkedin": "aa",
+        "email": "No",
+        "facebook": "No"
 }
 

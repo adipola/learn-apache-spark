@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/basic/</loc>
+    <lastmod>2020-01-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/basic/authors/</loc>
+    <lastmod>2020-01-01T10:54:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-01-01T10:54:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/adi-polak/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -38,11 +54,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -68,28 +79,7 @@
   </url>
   
   <url>
-    <loc>/basic/</loc>
-    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/basic/about/</loc>
-    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/basic/authors/</loc>
-    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tag1/</loc>
-    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tag2/</loc>
+    <loc>/about/</loc>
     <lastmod>2014-07-11T10:54:24+02:00</lastmod>
   </url>
   

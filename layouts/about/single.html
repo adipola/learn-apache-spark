@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+  {{ partial "header.html" . }}
+  <body>
+  
+
+  <div id="hero-area" class="hero-area-bg">
+      <div class="overlay"></div>
+      <nav class="main-nav overlay clearfix">
+        {{ if .Site.Params.logo }}
+            <a class="blog-logo" href="{{ .Site.BaseURL }}"><img src="{{ .Site.BaseURL }}{{.Site.Params.logo}}" alt="Blog Logo" /></a>
+        {{end}}
+    
+        {{ if .Site.Params.RSSLink}}
+        <a class="menu-button icon-feed" href="{{.Site.Params.RSSLink }}">&nbsp;&nbsp;Subscribe</a>
+            {{else}}
+        <a class="menu-button icon-feed" href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">&nbsp;&nbsp;Subscribe</a>
+        {{end}}
+        
+        {{ if .Site.Menus.main }}
+            <a class="menu-button" href="{{.Site.BaseURL}}\#"><span class="burger">&#9776;</span><span class="word">BACK</span></a>
+        {{end}}
+       
+      </nav>  
+
+      <div class="container" style="background-image:url({{.Site.BaseURL}}{{.Site.Params.cover}});background-size:auto;">
+        
+        <div class="row">
+          <div class="col-md-12 col-sm-12 text-center">
+            <div class="contents">
+            <h5 class="script-font wow fadeInUp" data-wow-delay="0.6s">Learn Apache Spark: About</h5>
+          
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+
+      <link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}css/bootstrap.min.css" >
+      
+    <link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}css/slicknav.css">
+    <!-- Menu CSS -->
+    <link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}css/menu_sideslide.css">
+    <!-- Slider CSS -->
+    <link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}css/slide-style.css">
+    <!-- Nivo Lightbox -->
+    <link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}css/nivo-lightbox.css" >
+    <!-- Animate -->
+    <link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}css/animate.css">
+    <!-- Main Style -->
+    <link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}css/main.css">
+    <!-- Responsive Style -->
+    <link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}css/responsive.css">
+
+
+    <main id="content" class="content" role="main">
+
+
+      <article class="post {{ .Section }}">
+    
+        <header class="post-header">
+            <h1 class="post-title">Thank you</h1>
+            <section class="post-meta">
+            {{ if eq .Section "post"}}
+            <time class="post-date" datetime="{{ .Date.Format "2006-01-02" }}">
+                {{ .Date.Format "2020-01-01" }}
+              </time>
+            {{end}}
+            </section>
+        </header>
+    
+        <section class="post-content">
+          {{ .Content }}
+        </section>
+    
+    
+      <footer class="post-footer">
+    
+    
+        {{ if ne .Params.share false}}
+        <section class="share">
+          <h4>Share this page</h4>
+          <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text={{ .Title | safeHTML}}&amp;url={{ .Permalink }}"
+              onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+              <span class="hidden">Twitter</span>
+          </a>
+          <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}"
+              onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+              <span class="hidden">Facebook</span>
+          </a>
+          <a class="icon-linkedin" style="font-size: 1.4em" href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}"
+             onclick="window.open(this.href, 'linkedin-share', 'width=490,height=530');return false;">
+              <span class="hidden">Linkedin</span>
+          </a>
+        </section>
+        {{end}}
+    
+      </footer>
+    </article>
+    
+    </main>
+    
+    {{ partial "footer.html" . }}
+    
+
+  </body>
+
+
+
+
+</html>

@@ -8,7 +8,8 @@ comments = false	# set false to hide Disqus
 share = true	# set false to hide share buttons
 menu= "main"		# set "main" to add this content to the main menu
 author = ""
+type= "about"
 +++
 
 
-This site build for...
+This site build for... something about, something vision, something good

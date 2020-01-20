@@ -48,23 +48,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>tag1</title>
-      <link>/tags/tag1/</link>
-      <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
-      
-      <guid>/tags/tag1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag2</title>
-      <link>/tags/tag2/</link>
-      <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
-      
-      <guid>/tags/tag2/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

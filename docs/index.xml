@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2020</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 10:54:24 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Authors</title>
+      <link>/basic/authors/</link>
+      <pubDate>Wed, 01 Jan 2020 10:54:24 +0200</pubDate>
+      
+      <guid>/basic/authors/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>hello sample</title>
@@ -44,20 +53,11 @@ no.. it&#39;s actualy sunny and nice!</description>
     
     <item>
       <title>About</title>
-      <link>/basic/about/</link>
+      <link>/about/</link>
       <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
       
-      <guid>/basic/about/</guid>
-      <description>This site build for&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Authors</title>
-      <link>/basic/authors/</link>
-      <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
-      
-      <guid>/basic/authors/</guid>
-      <description> {{ range $index, $author := .Site.Data.authors }} &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;{{ $baseurl }}authors/{{ $index.name | urlize | lower }}&amp;quot;&amp;gt;$author.name&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://example.com/quote/quotes-02/&amp;quot;&amp;gt;Quote 2&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; {{ end }}  </description>
+      <guid>/about/</guid>
+      <description>This site build for&amp;hellip; something about, something vision, something good</description>
     </item>
     
   </channel>

@@ -1,0 +1,17 @@
+
+
+
+<section id="about" class="section-padding">
+    <div class="container">
+        <table>
+            <tbody>
+        {{ range $index, $author := .Site.Data.authors }}
+        <div  class="row" style="background-color:white;" >
+            {{ partial "print-authorbox" $author }}
+        </div>
+
+        {{ end }}
+        </tbody>
+        </table>
+    </div>
+</section>
